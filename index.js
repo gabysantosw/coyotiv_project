@@ -32,6 +32,7 @@ const steve = new Person('steve', 21)
 const armagan = new Person('armagan', 36)
 
 const photo = new Photo('berlin.jpg')
+
 steve.addPhoto(photo)
 armagan.likePhoto(photo)
 mihri.likePhoto(photo)
